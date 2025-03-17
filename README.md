@@ -7,3 +7,4 @@ curl -O https://raw.githubusercontent.com/EsoLangBefunge/BlobeVM/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
+Made by BlobbyBoi. Forked by me.
